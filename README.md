@@ -1,7 +1,7 @@
 # SVM-based-Peer-Set-Selection-Mechanism
 SVM-based Peer Set Selection Mechanism for Scalable Blockchain  System over Mobile Networks
 
-## ScreenShots
+## System Architecture, Working Procedure, and Experimental Result
 System Architecture                                 
 :-------------------------:|
 ![System Architecture](https://github.com/sithukaungset/SVM-based-Peer-Set-Selection-Mechanism/blob/master/Slide5.JPG)
