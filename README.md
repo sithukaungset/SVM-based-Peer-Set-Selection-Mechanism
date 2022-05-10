@@ -2,6 +2,11 @@
 SVM-based Peer Set Selection Mechanism for Scalable Blockchain  System over Mobile Networks
 
 ## System Architecture, Working Procedure, and Experimental Result
+
+3D Optimal Hyperplane From Linear SVM                                  
+:-------------------------:|
+![Hyperplane](https://github.com/sithukaungset/SVM-based-Peer-Set-Selection-Mechanism/blob/master/svm.gif)
+
 System Architecture                                 
 :-------------------------:|
 ![System Architecture](https://github.com/sithukaungset/SVM-based-Peer-Set-Selection-Mechanism/blob/master/Slide5.JPG)
